@@ -1,0 +1,18 @@
+
+.panda-cards img{
+    width: 100px;
+}
+.panda-card{
+    border: 0;
+    border-radius: 20px;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+#touchme{
+    border-radius: 15px;
+}
+.saiful-images{
+    height: 400px;
+}
